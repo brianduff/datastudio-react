@@ -1,0 +1,20 @@
+{
+  "name": "Example Visualizations",
+  "organization": "Brian Duff",
+  "description": "Example visualizations using React and JSX",
+  "logoUrl": "https://img.icons8.com/dotty/80/000000/view-file.png",
+  "packageUrl": "https://duff.blog",
+  "supportUrl": "https://duff.blog",
+  "components": [
+    {
+      "id": "hello",
+      "name": "Hello",
+      "description": "Just says hello",
+      "iconUrl": "https://img.icons8.com/material/24/000000/hello.png",
+      "resource": {
+        "js": "gs://duffblog-react-example/hello/viz.js",
+        "config": "gs://duffblog-react-example/hello/hello.config.json"
+      }
+    }
+  ]
+}

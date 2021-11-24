@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": "data",
+      "label": "Data",
+      "elements": [
+        {
+          "id": "someDimension",
+          "label": "A Dimension",
+          "type": "DIMENSION"
+        }
+      ]
+    }
+  ]
+}

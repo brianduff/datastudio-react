@@ -1,0 +1,4 @@
+built-tsc/
+deploy/
+dist/
+node_modules/
